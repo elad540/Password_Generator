@@ -1,2 +1,4 @@
 # Password_Generator
-This app is a password generator that allows users to create strong or weak passwords.
+
+With the help of this program, users can generate strong or weak passwords.
+In order for the user to view the password they created, the software will create  a text file with the password recorded in it.
